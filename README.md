@@ -2,6 +2,10 @@
 
 **InstagramClone** is a photo sharing app similar to Instagram but using Parse as its backend.
 
+I followed CodePath's YouTube video [playlist](https://www.youtube.com/playlist?list=PLrT2tZ9JRrf74emXdHwSG6Q46-DEvuNA6) to develop this project.
+
+This readme is based on CodePath's [template](https://courses.codepath.org/snippets/android_university/readme_templates/project_3_readme.md?raw=true).
+
 Time spent: **9** hours spent in total
 
 ## User Stories
